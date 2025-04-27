@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP TEENSY_4.1
+D Teensy 4.1 Development Board
+K
+F https://www.pjrc.com/store/teensy41.html
+$ENDCMP
+#
+#End Doc Library
